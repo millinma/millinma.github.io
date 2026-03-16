@@ -23,7 +23,7 @@ repository               : "millinma/millinma.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "manuel_milling.png"
+  avatar           : "Manuel_Milling.jpg"
   name             : "Manuel Milling"
   pronouns         : "he/him"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
