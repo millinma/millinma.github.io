@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-Find below a comprehensive list of talks I have given at conferences and institutions, special events.
+Find below a comprehensive list of talks I have given at conferences and institutions, as well as special events.
 
 
 - **Training Dynamics in Deep Learning for Computer Audition and Beyond**, PhD Defense @ TUM (2025)
