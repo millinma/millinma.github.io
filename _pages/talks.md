@@ -23,3 +23,5 @@ Find below a comprehensive list of talks I have given at conferences and institu
 - **Sprachemotionserkennung für autistische Kinder**, Dissemination Event for the EMBOA project @ University of Augsburg (2022)
 
 - **Speech Emotion Recognition for Children With ASC**, Dissemination Event for the EMBOA project @ University of Hertfordshire (2022)
+
+- **Programming Exercises Supporting Maths Pproblems for High School Pupils**, Dissemination event for iCSE project @ Warsaw (2017).

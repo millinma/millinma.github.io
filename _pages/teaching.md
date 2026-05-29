@@ -37,7 +37,7 @@ Lead design of course and material (lectures and exercises), teaching (lectures 
 ### Practical Speech Pathology
 
 5 ECTS, Bachelor-level practical, Informatics (WS19/20)\
-Contribute to design of course material (exercises), teaching (exercises)
+Contribute to design of course material (exercises), contribute to teaching (exercises)
 
 ---
 
@@ -73,7 +73,9 @@ Contribute to design of course material (exercises), teaching (exercises)
 - **Detecting and Tracking the Migration of Adherent Cells Influenced by Surface Acoustic Waves with Deep Convolutional Neural Networks** (2020)
 
 ### Clinical Application Projects
+CAPs are bachelor-level guided research projects with a volume of 6 ECTS that are this case centered around topics of ML and data science on medical data. 
 
+- **Analysis of Vital Signs for Smoking Recognition** (2026)
 - **Exploring Deep Learning Methodologies for Depression Detection** (2025)
 - **Recognizing ADHD from EEG signals with the help of machine and deep learning** (2025)
 - **Investigating Respiratory Sounds with Machine and Deep Learning** (2025)
