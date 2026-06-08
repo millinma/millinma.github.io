@@ -24,4 +24,4 @@ Find below a comprehensive list of talks I have given at conferences and institu
 
 - **Speech Emotion Recognition for Children With ASC**, Dissemination Event for the EMBOA project @ University of Hertfordshire (2022)
 
-- **Programming Exercises Supporting Maths Pproblems for High School Pupils**, Dissemination event for iCSE project @ Warsaw (2017).
+- **Programming Exercises Supporting Maths Problems for High School Pupils**, Dissemination event for iCSE project @ Warsaw (2017).
