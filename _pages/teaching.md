@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Below is a comprehensive list of teaching efforts during my PhD and post-doc time, which have been taken place at University of Augsburg until 2023 and at TUM since 2024.
+Below is a comprehensive list of teaching efforts during my PhD and post-doc time, which have been taken place at University of Augsburg (UA) until 2023 and at TUM since 2024 in the respective TUM Schools of Computation, Information and Technology (CIT) and Medicine and Health (MH), as well as UA Faculty of Applied Computer Science (FAI).
 
 ## Structured Courses
 The core target audience is highlighted, even though related study programs are eligible as well.
@@ -22,19 +22,19 @@ Co-lead design of course and material, teaching
 Lead design of course and material (lectures and exercises), teaching (lectures and exercises)
 
 
-### Deep Learning (Uni Augsburg)
+### Deep Learning (UA FAI)
 
 5 ECTS, Master-level lecture and tutorial, Informatics (SS19, WS1920, SS22, SS23)\
 Lead design of course and material (exercises), teaching (exercises and occasionally lectures)
 
 
-### Practical Deep Learning (Uni Augsburg)
+### Practical Deep Learning (UA FAI)
 
 5 ECTS, Bachelor-level practical, Informatics (SS19, SS20, SS21, SS22, WS22/23, SS23)\
 Lead design of course and material (lectures and exercises), teaching (lectures and exercises)
 
 
-### Practical Speech Pathology (Uni Augsburg)
+### Practical Speech Pathology (UA FAI)
 
 5 ECTS, Bachelor-level practical, Informatics (WS19/20)\
 Contribute to design of course material (exercises), contribute to teaching (exercises)
