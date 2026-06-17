@@ -73,7 +73,7 @@ Contribute to design of course material (exercises), contribute to teaching (exe
 - **Detecting and Tracking the Migration of Adherent Cells Influenced by Surface Acoustic Waves with Deep Convolutional Neural Networks** (2020)
 
 ### Clinical Application Projects
-CAPs are bachelor-level guided research projects with a volume of 6 ECTS that are this case centered around topics of ML and data science on medical data. 
+CAPs are bachelor-level guided research projects for TUM CS students with a minor in medicine with a volume of 6 ECTS that are this case centered around topics of ML and data science on medical data. 
 
 - **Analysis of Vital Signs for Smoking Recognition** (2026)
 - **Exploring Deep Learning Methodologies for Depression Detection** (2025)
