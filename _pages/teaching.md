@@ -5,36 +5,36 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Below is a comprehensive list of teaching efforts, which have been taken place at University of Augsburg until 2023 and at TUM since 2024.
+Below is a comprehensive list of teaching efforts during my PhD and post-doc time, which have been taken place at University of Augsburg until 2023 and at TUM since 2024.
 
 ## Structured Courses
 The core target audience is highlighted, even though related study programs are eligible as well.
 
-### Advanced Practical Deep Learning for Audio, Speech, and Language
+### Advanced Practical Deep Learning for Audio, Speech, and Language (TUM CIT)
 
 10 ECTS, Master-level practical, Informatics, group projects and regular exchange formats (SS25, WS25/26, SS26)\
 Co-lead design of course and material, teaching
 
 
-### Introduction to Programming and Artificial Intelligence in Sports Science
+### Introduction to Programming and Artificial Intelligence in Sports Science (TUM MH)
 
 5 ECTS, Bachelor-level seminar and tutorial, Sports Science (WS25/26)\
 Lead design of course and material (lectures and exercises), teaching (lectures and exercises)
 
 
-### Deep Learning 
+### Deep Learning (Uni Augsburg)
 
 5 ECTS, Master-level lecture and tutorial, Informatics (SS19, WS1920, SS22, SS23)\
 Lead design of course and material (exercises), teaching (exercises and occasionally lectures)
 
 
-### Practical Deep Learning 
+### Practical Deep Learning (Uni Augsburg)
 
 5 ECTS, Bachelor-level practical, Informatics (SS19, SS20, SS21, SS22, WS22/23, SS23)\
 Lead design of course and material (lectures and exercises), teaching (lectures and exercises)
 
 
-### Practical Speech Pathology
+### Practical Speech Pathology (Uni Augsburg)
 
 5 ECTS, Bachelor-level practical, Informatics (WS19/20)\
 Contribute to design of course material (exercises), contribute to teaching (exercises)
@@ -108,7 +108,3 @@ The following list concludes seminar theses written by informatics students in t
 - **A Survey on Neural Network Optimization for Audio Classification Tasks**, Research Module (2020)
 
 ---
-
-## Workshops & Tutorials
-- Deep Learning Summer School (2023)  
-- Python for Data Science Workshop (2022)
