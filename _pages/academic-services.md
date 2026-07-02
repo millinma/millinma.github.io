@@ -22,6 +22,7 @@ Find below a selection of academic services provided for the research community.
 
 * **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)** (2024–2025; 10 reviews)
 * **International Joint Conference on Neural Networks (IJCNN)** (2026; 8 reviews)
+* **International Conference on Affective Computing & Intelligent Interaction (ACII)** (2026; 3 reviews)
 * **IEEE International Conference on Multimodal Interaction (ICMI)** (2023; 1 review)
 * **IEEE International Workshop on Machine Learning for Signal Processing (MLSP)** (2025; 1 review)
 * **ICML Expressive Vocalisation Workshop & Competition** (2022; 1 review)
