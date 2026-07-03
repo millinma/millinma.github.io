@@ -15,10 +15,15 @@ The core target audience is highlighted, even though related study programs are 
 10 ECTS, Master-level practical, Informatics, group projects and regular exchange formats (SS25, WS25/26, SS26)\
 Co-lead design of course and material, teaching
 
+### Healthcare Innovation Program (TUM Interdisciplinary)
+
+5 ECTS, Master-level lecture, Informatics, Medicine and Business, group projects and regular exchange formats (SS26)\
+Co-lead design and held a guest lecture, contributed to course organisation and student mentoring
+
 
 ### Introduction to Programming and Artificial Intelligence in Sports Science (TUM MH)
 
-5 ECTS, Bachelor-level seminar and tutorial, Sports Science (WS25/26)\
+5 ECTS, Bachelor-level lecture-style seminar and tutorial, Sports Science (WS25/26)\
 Lead design of course and material (lectures and exercises), teaching (lectures and exercises)
 
 
@@ -81,7 +86,7 @@ CAPs are bachelor-level guided research projects for TUM CS students with a mino
 - **Investigating Respiratory Sounds with Machine and Deep Learning** (2025)
 - **Investigating Convolutional Neural Networks for Brain Tumor Recognition from MRI Images** (2025)
 
-### Seminar Thesis
+### Seminar Theses
 The following list concludes seminar theses written by informatics students in the context of the seminars *Embedded Intelligence for Health Care and Wellbeing*, *Computer Audition*, *Sports Informatics*, *Computational Intelligence*, and *Digital Health*
 
 - **Technology Adoption for Children with Neurodevelopmental Disorders** (2023)
