@@ -49,7 +49,9 @@ Contribute to design of course material (exercises), contribute to teaching (exe
 ## Thesis Supervision
 
 ### Master Theses
-
+- **Sharpness as a Scoring Function in Curriculum Learning** (2026)
+- **Design and Implementation of the Spezi Study Platform for Patient‑Generated Health Data**, co-supervised with Stanford Biodesign (2026)
+- **Designing a Personalized, Explainable Feedback Pipeline using Smartphone-Based Behavioral Data**, co-supervised with LMU Department of Psychology (2026)
 - **Improving Instruction Adherence in Long-Form Generation via Parallel Writer-Critic Loops**, co-supervised with Forgent AI (2026)
 - **Development of a Language Model for the German Medical Domain**, co-supervised with TUM Chair of Medical Informatics (2025)
 - **Building a Digital Health Development Ecosystem for Native Mobile Applications**, co-supervised with Stanford Biodesign (2024)
@@ -63,6 +65,7 @@ Contribute to design of course material (exercises), contribute to teaching (exe
 
 
 ### Bachelor Theses
+- **Dual-Contrastive Sparse Autoencoders Reveal Features of Musical Interpretation**, co-supervised with MIT Media Lab (2026)
 - **Development of an Affect-Detection System and Implementation in the Phone Study App**, co-supervised with LMU Department of Psychology (2026)
 - **Enhancing Wearable Human Activity Recognition through Smartphone and Smartwatch Sensor Fusion**, co-supervised with ETH Zürich Information Management (2025)
 - **A Platform for Evaluating Large Language Models for Personalized Medical Consultations**, co-supervised with Stanford Biodesign (2025)
