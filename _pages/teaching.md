@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Below is a comprehensive list of teaching efforts during my PhD and post-doc time, which have been taken place at University of Augsburg (UA) until 2023 and at TUM since 2024 in the respective TUM Schools of Computation, Information and Technology (CIT) and Medicine and Health (MH), as well as UA Faculty of Applied Computer Science (FAI).
+Below is a comprehensive list of teaching efforts during my PhD and post-doc time, which have been taken place at University of Augsburg (UA) until 2023 and at TUM since 2024 in the respective TUM Schools of Computation, Information and Technology (CIT) and Medicine and Health (MH), as well as UA Faculty of Applied Computer Science (FAI). Since 2019 I have taken the lead in coordinating and co-designing teaching activities in the respective groups. Between May 2022 and November 2023 I served as recognition officer to process recognition requests from students in the bachelor and master program of medical informatics. 
 
 ## Structured Courses
 The core target audience is highlighted, even though related study programs are eligible as well.
