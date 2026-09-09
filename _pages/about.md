@@ -15,7 +15,7 @@ Besides research, I take a lot of joy in teaching, including supervision of bach
 
 Besides my current research group, I have been part of 
 - Chair of Embedded Intelligence for Health Care (EIHW) and Wellbeing @ University of Augsburg, led by Prof. Björn Schuller (employed research assistant 2018-2023)
-- [Group on Language, Audio, and Music](https://glam.doc.ic.ac.uk/) @ [Imperial College London](https://www.imperial.ac.uk/), led by Prof. Björn Schuller (short term visitor, 2024)
-- [Human-in-the-Loop Computing Group](https://wp.doc.ic.ac.uk/bkainz/) @ Imperial College London, led by Prof. Dr. [Bernhard Kainz](https://bernhard-kainz.com/) (short term visitor, 2025)
+- [Group on Language, Audio, and Music](https://glam.doc.ic.ac.uk/) @ [Imperial College London](https://www.imperial.ac.uk/), led by Prof. Björn Schuller (short term visitor, 1 month, 2024)
+- [Human-in-the-Loop Computing Group](https://wp.doc.ic.ac.uk/bkainz/) @ Imperial College London, led by Prof. Dr. [Bernhard Kainz](https://bernhard-kainz.com/) (short term visitor, total of 1 month, supported by TUM Global Incentive Fund, 2025-2026)
 
 If you are looking for collaboration, just drop me an email. If you are a student at TUM and interested in supervision for a thesis, please either contact me directly or refer to the [webiste of our chair ](https://kiinformatik.mri.tum.de/en/hichair-health-informatics/chi-teaching) for application instructions.
