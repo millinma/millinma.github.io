@@ -49,6 +49,7 @@ Contribute to design of course material (exercises), contribute to teaching (exe
 ## Thesis Supervision
 
 ### Master Theses
+- **Data-Efficient and On-Device Time-Series Language Models for Wearable Health Data**, co-supervised with Stanford Biodesign (2026)
 - **Sharpness as a Scoring Function in Curriculum Learning** (2026)
 - **Design and Implementation of the Spezi Study Platform for Patient‑Generated Health Data**, co-supervised with Stanford Biodesign (2026)
 - **Designing a Personalized, Explainable Feedback Pipeline using Smartphone-Based Behavioral Data**, co-supervised with LMU Department of Psychology (2026)
@@ -83,6 +84,7 @@ Contribute to design of course material (exercises), contribute to teaching (exe
 ### Clinical Application Projects
 CAPs are bachelor-level guided research projects for TUM CS students with a minor in medicine with a volume of 6 ECTS that are this case centered around topics of ML and data science on medical data. 
 
+- **Wearable-based Sports Activity and State Recognition** (2026)
 - **Analysis of Vital Signs for Smoking Recognition** (2026)
 - **Exploring Deep Learning Methodologies for Depression Detection** (2025)
 - **Recognizing ADHD from EEG signals with the help of machine and deep learning** (2025)
@@ -107,6 +109,12 @@ The following list concludes seminar theses written by informatics students in t
 - **LARS and LAMB in comparison to some other optimisation algorithms** (2020)
 - **Measurement of Rapport Over Time** (2019)
 - **Audio-Based Classification of Sports** (2019)
+
+### Practical Group Projects (from Advanced Practical Courses listed above)
+- **What Do Audio Models Learn?**, DL for ASL (2026)
+- **NoiseGap: Generalisation Under Acoustic Noise Distribution Shift in Speech Classification** (2026)
+- **Evaluation of Speech Foundation Models for Ecoacoustic Classification** (2025)
+
 
 ### Other supervised projects
 - **Implementation of data augmentation functionality for autrainer**, Project Module (2024)

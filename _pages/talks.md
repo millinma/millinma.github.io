@@ -5,11 +5,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks
-
 Find below a selection of conference presentations, invited seminars, academic talks, and outreach activities.
 
 ### Conference Presentations
+
+* **How Class Ontology and Data Scale Affect Audio Transfer Learning**, paper presentation @ MMSP, 2026
 
 * **Does the Definition of Difficulty Matter? Scoring Functions and their Role for Curriculum Learning**, paper presentation @ IJCNN, 2026
 
