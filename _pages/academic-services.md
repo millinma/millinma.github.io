@@ -27,6 +27,10 @@ Find below a selection of academic services provided for the research community.
 * **IEEE International Workshop on Machine Learning for Signal Processing (MLSP)** (2025; 1 review)
 * **ICML Expressive Vocalisation Workshop & Competition** (2022; 1 review)
 
+
+### Project Reviewing
+* OeAD (Austria's Agency for Education and Internationalisation) call for Scientific & Technological Cooperation (2026; 1 review)
+
 ### Conference Service
 
 * **Session Chair:** *Generative AI Models* session, International Joint Conference on Neural Networks (IJCNN), 2026

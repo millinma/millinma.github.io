@@ -32,7 +32,7 @@ Research contributions, technical integration, communication
 Research contributions, contributions to IT infrastructure
 
 ### [iCSE](https://github.com/marcinofulus/iCSEbook1)
-**Programming exercises supporting maths problems for pupils**
+**Programming for high school pupils**
 Working student, exercise creation
 
 ## Industry Projects
