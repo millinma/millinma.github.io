@@ -11,6 +11,11 @@ Below is a comprehensive list of university projects I provided considerable con
 
 ## EU-funded projects 
 
+### [SPEPAS](https://erasmus-plus.ec.europa.eu/projects/search/details/2026-1-DE02-KA220-ADU-000458035)
+**Smart Platform for Empowering Parents in Autism Support** (31.12.2026 - 30.03.2029)
+
+Project Coordinator, Principle Investigator
+
 ### [TE(A)CHADOPT](https://neonatologie.medunigraz.at/forschung/teachadopt)
 **Teaching students how children with neurodevelopmental disorders adopt and interact with technologie**
 

@@ -66,6 +66,8 @@ Contribute to design of course material (exercises), contribute to teaching (exe
 
 
 ### Bachelor Theses
+
+- **Deep Learning-Based Speech Emotion Recognition for Children with Neurodevelopmental Disorders**, 2026
 - **Dual-Contrastive Sparse Autoencoders Reveal Features of Musical Interpretation**, co-supervised with MIT Media Lab (2026)
 - **Development of an Affect-Detection System and Implementation in the Phone Study App**, co-supervised with LMU Department of Psychology (2026)
 - **Enhancing Wearable Human Activity Recognition through Smartphone and Smartwatch Sensor Fusion**, co-supervised with ETH Zürich Information Management (2025)
